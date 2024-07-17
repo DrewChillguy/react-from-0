@@ -1,0 +1,11 @@
+.quote {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.quote p {
+  line-height: 1.5;
+  font-style: italic;
+  color: rgb(51, 51, 51);
+}
+
